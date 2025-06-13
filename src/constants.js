@@ -4,7 +4,7 @@
 import reactjsLogo from "./assets/tech_logo/reactjs.png";
 import bootstrapLogo from "./assets/tech_logo/bootstrap.png";
 import javascriptLogo from "./assets/tech_logo/javascript.png";
-import tailwindcssLogo from "./assets/tech_logo/Tailwind.png";
+import tailwindcssLogo from "./assets/tech_logo/tailwind.png";
 
 // language
 import javaLogo from "./assets/tech_logo/java.png";
