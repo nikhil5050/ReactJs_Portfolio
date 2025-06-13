@@ -16,7 +16,7 @@ import gitLogo from "./assets/tech_logo/git.png";
 import githubLogo from "./assets/tech_logo/github.png";
 import vscodeLogo from "./assets/tech_logo/vscode.png";
 import netlifyLogo from "./assets/tech_logo/netlify.png";
-import vercelLogo from "./assets/tech_logo/vercel1.png";
+import vercelLogo from "./assets/tech_logo/ver.png";
 import eclipseLogo from "./assets/tech_logo/eclipse1.png";
 
 // Database
