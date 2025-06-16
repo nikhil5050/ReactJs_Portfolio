@@ -20,7 +20,7 @@ import vercelLogo from "./assets/tech_logo/ver.png";
 import eclipseLogo from "./assets/tech_logo/eclipse1.png";
 
 // Database
-import mongoDBLogo from "./assets/tech_logo/mongodb.jpg";
+import mongoDBLogo from "./assets/tech_logo/mongoDB.png";
 import mySQLLogo from "./assets/tech_logo/mysql.png";
 import SQLLogo from "./assets/tech_logo/sql1.png";
 
